@@ -1,2 +1,2 @@
-# C-_catch_up
+# C++_catch_up
 A repo to study C++
